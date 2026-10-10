@@ -1,5 +1,7 @@
 # IT Support Toolkit
 
+[![Python Tests](https://github.com/maheshkrcs-dev/it-support-toolkit-/actions/workflows/python-tests.yml/badge.svg)](https://github.com/maheshkrcs-dev/it-support-toolkit-/actions/workflows/python-tests.yml)
+
 Practical, safety-first utilities for desktop support and IT infrastructure learning.
 
 **Status:** Initial draft — scripts and tests should be reviewed and run in your own lab before use. This is not an enterprise management or remediation tool.
