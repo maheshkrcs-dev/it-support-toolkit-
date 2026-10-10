@@ -1,0 +1,9 @@
+Illustrative example only — not captured from a real run.
+
+Network diagnostics for: example.com
+----------------------------------------
+DNS: PASS
+  Address: 192.0.2.25
+Ping: FAIL / NO REPLY
+Request timed out.
+Note: ICMP may be blocked; this alone does not prove a service is down.
