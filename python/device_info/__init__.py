@@ -1,0 +1,1 @@
+"""Local device information utility."""
